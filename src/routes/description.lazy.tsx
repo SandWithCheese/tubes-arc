@@ -5,5 +5,9 @@ export const Route = createLazyFileRoute("/description")({
 })
 
 function Description() {
-  return <div className="p-2">Hello from Description!</div>
+  return (
+    <div className="p-6">
+      <h1>Hello from Description!</h1>
+    </div>
+  )
 }
