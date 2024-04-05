@@ -6,10 +6,16 @@ export const Route = createLazyFileRoute("/about")({
 
 function About() {
   return (
-    <div className="flex flex-col justify-center items-center min-h-screen p-6" data-aos="fade-up">
-      <h1 className="font-bold text-primary text-5xl">About Us !</h1>
-      <p className="text-slate-200 text-2xl text-justify p-6" >Welcome to our API testing platform! We're here to simplify the process of testing and interacting with APIs.
-        Our platform offers a user-friendly interface for making GET and POST requests to APIs, allowing you to easily retrieve and send data.
+    <div
+      className="flex h-[calc(100vh-92px)] flex-col items-center justify-center p-6"
+      data-aos="fade-up"
+    >
+      <h1 className="text-5xl font-bold text-primary">About Us !</h1>
+      <p className="p-6 text-center text-2xl text-slate-200">
+        Welcome to our API testing platform! We're here to simplify the process
+        of testing and interacting with APIs. Our platform offers a
+        user-friendly interface for making HTTP requests, allowing you to easily
+        retrieve and send data.
       </p>
     </div>
   )
