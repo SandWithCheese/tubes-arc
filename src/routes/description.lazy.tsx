@@ -31,7 +31,9 @@ function Description() {
               >
                 Ahmad Naufal Ramadan
               </button>
+              <img src="Member/Naufal.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
             </a>
+            
           </li>
           <li>
             <a
@@ -44,6 +46,7 @@ function Description() {
               >
                 Haikal Assyauqi
               </button>
+              <img src="Member/Haikal.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
             </a>
           </li>
           <li>
@@ -57,6 +60,7 @@ function Description() {
               >
                 M. Althariq Fairuz
               </button>
+              <img src="Member/Naufal.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
             </a>
           </li>
           <li>
@@ -70,6 +74,7 @@ function Description() {
               >
                 Shafiq Irvansyah
               </button>
+              <img src="Member/Shafiq.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
             </a>
           </li>
           <li>
@@ -83,6 +88,7 @@ function Description() {
               >
                 Zaki Yudhistira Candra
               </button>
+              <img src="Member/Zaki.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
             </a>
           </li>
         </ol>
