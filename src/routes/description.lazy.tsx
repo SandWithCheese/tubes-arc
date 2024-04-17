@@ -17,7 +17,7 @@ function Description() {
         Anggota Kelompok 8:
       </p>
       <p>
-        <ol className="ml-16 list-disc">
+        <ol className="ml-16 w-fit list-disc">
           {" "}
           <li>
             <a
@@ -31,9 +31,11 @@ function Description() {
               >
                 Ahmad Naufal Ramadan
               </button>
-              <img src="Member/Naufal.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
+              <img
+                src="Member/Naufal.jpg"
+                className="h-[10rem] w-[10rem] rounded-lg object-cover outline outline-white"
+              ></img>
             </a>
-            
           </li>
           <li>
             <a
@@ -46,7 +48,10 @@ function Description() {
               >
                 Haikal Assyauqi
               </button>
-              <img src="Member/Haikal.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
+              <img
+                src="Member/Haikal.jpg"
+                className="h-[10rem] w-[10rem] rounded-lg object-cover outline outline-white"
+              ></img>
             </a>
           </li>
           <li>
@@ -60,7 +65,10 @@ function Description() {
               >
                 M. Althariq Fairuz
               </button>
-              <img src="Member/Naufal.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
+              <img
+                src="Member/Eriq.jpg"
+                className="h-[10rem] w-[10rem] rounded-lg object-cover outline outline-white"
+              ></img>
             </a>
           </li>
           <li>
@@ -74,7 +82,10 @@ function Description() {
               >
                 Shafiq Irvansyah
               </button>
-              <img src="Member/Shafiq.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
+              <img
+                src="Member/Shafiq.jpg"
+                className="h-[10rem] w-[10rem] rounded-lg object-cover outline outline-white"
+              ></img>
             </a>
           </li>
           <li>
@@ -88,7 +99,10 @@ function Description() {
               >
                 Zaki Yudhistira Candra
               </button>
-              <img src="Member/Zaki.jpg" class="rounded-lg h-[10rem] w-[10rem] object-cover outline outline-white"></img>
+              <img
+                src="Member/Zaki.jpg"
+                className="h-[10rem] w-[10rem] rounded-lg object-cover outline outline-white"
+              ></img>
             </a>
           </li>
         </ol>
